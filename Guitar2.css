@@ -1,0 +1,111 @@
+body{
+  background-image: linear-gradient(to right,teal, purple);
+}
+
+h1{
+  border-radius: 15px;
+  border-style: double;
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 20px;
+  font-size: 50px;
+  color:white;
+  font-family: 'Lobster', serif, sans-serif;
+  padding:20px;
+}
+.Who-we-are-h3{
+  font-family: 'Lobster', monospace, sans-serif;
+  font-size: 32px;
+  color: white;
+  background-image: linear-gradient(to right,teal, silver, purple );
+  text-align: center;
+}
+.Who-we-are-p{
+  font-family: 'Lobster', monospace, serif;
+  font-size: 25px;
+  color: white;
+  background-color: teal;
+  border-bottom: 5px;
+
+}
+.Joe-Pass-img{
+  display: inline-block;
+  float:right;
+  width: 25%
+}
+
+
+.first-list li{
+  float:right;
+  margin-top: 0px;
+  margin-right:50px;
+  margin-left: 0px;
+  display: inline;
+  background-color: white;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+  font-family: impact, sans-serif, serif;
+}
+.second-list li{
+  width: 15%;
+  color: purple;
+  font-size: 20px;
+  font-family: 'Lobster', impact, sans-serif;
+}
+hr{
+  width: 100%;
+}
+
+.Opening-Statement{
+  color: white;
+  font-family: 'Lobster', sans-serif;
+  font-size: 20px;
+}
+
+.New-Statement{
+  text-align: center;
+  background-color: none;
+  color: white;
+  font-size: 20px;
+  font-family: 'Lobster', serif, sans-serif;
+}
+
+.Membership-h3{
+  float: right;
+  display: inline-block;
+  font-family: 'Lobster', san-sans-serif;
+  text-decoration: underline;
+  color: white;
+  height: 30px;
+  margin-right: 5px;
+  text-align: right;
+  font-size: 32px;
+  width: 35%;
+
+}
+form{
+  float: right;
+  clear: right;
+
+}
+.user{
+  display: block;
+
+
+}
+.pass{
+  clear:both;
+}
+.submit{
+  display:block;
+  clear: both;
+}
+a:hover{
+  color: teal;
+}
+a:link{
+  text-decoration: none;
+  color: purple;
+}
